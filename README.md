@@ -112,8 +112,9 @@
 
 <br clear="both">
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=RudrakshGupta0413&theme=react&hide_border=true" alt="GitHub Commit History" />
+<img src="https://activity-graph.herokuapp.com/graph?username=RudrakshGupta0413&theme=react-dark&hide_border=true" alt="GitHub Commit History" />
 
 ###
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RudrakshGupta0413.RudrakshGupta0413&right_color=lightcoral&left_text=Views"  />
+
