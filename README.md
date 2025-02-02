@@ -8,8 +8,6 @@
 
 <h3 align="left">🛠️ About Me</h3>
 
-<br clear="both">
-
 <h4 align="left">🎯 I’m currently working on developing scalable web applications by integrating AI/ML for better efficiency.<br>🤝 I’m looking to collaborate on projects that leverage AI/ML and enhance user experiences.<br>🌱 I’m currently learning advanced concepts in data science and analytics.<br>💬 Ask me about full-stack development, DSA, or building platforms for social impact.<br>⚡ Fun fact: I’m passionate about using technology to solve real-world problems and bridge gaps in accessibility.</h4>
 
 ###
