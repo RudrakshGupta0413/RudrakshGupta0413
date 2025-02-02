@@ -112,8 +112,6 @@
 
 <br clear="both">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RudrakshGupta0413&repo=github-readme-stats" alt="GitHub Commit Stats">
-
 
 ###
 
