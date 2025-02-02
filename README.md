@@ -11,13 +11,15 @@
 ###
 
 
-<h4 align="left"><ul>
-  <li>🎯 I’m currently working on developing scalable web applications by integrating AI/ML for better efficiency.</li> 
-  <li>🤝 I’m looking to collaborate on projects that leverage AI/ML and enhance user experiences. </li> 
-  <l1>🌱 I’m currently learning advanced concepts in data science and analytics.</l1>
-  <l1>💬 Ask me about full-stack development, DSA, or building platforms for social impact.</l1>
-  <li>⚡ Fun fact: I’m passionate about using technology to solve real-world problems and bridge gaps in accessibility.</li>
-                                                                                                                             </ul>  </h4>
+<h4 align="left">
+  <ul>
+    <li>🎯 I’m currently working on developing scalable web applications by integrating AI/ML for better efficiency.</li> 
+    <li>🤝 I’m looking to collaborate on projects that leverage AI/ML and enhance user experiences. </li> 
+    <li>🌱 I’m currently learning advanced concepts in data science and analytics.</li>
+    <li>💬 Ask me about full-stack development, DSA, or building platforms for social impact.</li>
+    <li>⚡ Fun fact: I’m passionate about using technology to solve real-world problems and bridge gaps in accessibility.</li>
+  </ul> 
+</h4>
 
 ###
 
