@@ -8,16 +8,22 @@
 
 <h3 align="left">🛠️ About Me</h3>
 
-<h4 align="left">🎯 I’m currently working on developing scalable web applications by integrating AI/ML for better efficiency.<br>🤝 I’m looking to collaborate on projects that leverage AI/ML and enhance user experiences.<br>🌱 I’m currently learning advanced concepts in data science and analytics.<br>💬 Ask me about full-stack development, DSA, or building platforms for social impact.<br>⚡ Fun fact: I’m passionate about using technology to solve real-world problems and bridge gaps in accessibility.</h4>
+###
+
+
+<h4 align="left"><ul><li>🎯 I’m currently working on developing scalable web applications by integrating AI/ML for better efficiency.</li><br>🤝 I’m looking to collaborate on projects that leverage AI/ML and enhance user experiences.<br>🌱 I’m currently learning advanced concepts in data science and analytics.<br>💬 Ask me about full-stack development, DSA, or building platforms for social impact.<br>⚡ Fun fact: I’m passionate about using technology to solve real-world problems and bridge gaps in accessibility.</h4>
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RudrakshGupta0413&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=RudrakshGupta0413&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RudrakshGupta0413&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="170" alt="languages graph"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/rudraksh-gupta-664b591b2/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/rudraksh_gupta04/?next=%2F" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
 </div>
 
 ###
@@ -86,15 +92,12 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/rudraksh-gupta-664b591b2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/rudraksh_gupta04/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RudrakshGupta0413&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=RudrakshGupta0413&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RudrakshGupta0413&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
 ###
