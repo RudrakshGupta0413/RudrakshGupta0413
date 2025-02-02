@@ -13,7 +13,7 @@
 
 <h4 align="left">
   <ul>
-    <li>🎯 I’m currently working on developing scalable web applications by integrating AI/ML for better efficiency.</li> 
+    <li><h4>🎯 I’m currently working on developing scalable web applications by integrating AI/ML for better efficiency.</h4></li> 
     <li>🤝 I’m looking to collaborate on projects that leverage AI/ML and enhance user experiences. </li> 
     <li>🌱 I’m currently learning advanced concepts in data science and analytics.</li>
     <li>💬 Ask me about full-stack development, DSA, or building platforms for social impact.</li>
