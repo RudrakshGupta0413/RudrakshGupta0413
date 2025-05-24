@@ -2,7 +2,7 @@
 
 
 
-<h2 align="left">🚀 Full-Stack Developer | React.Js | Next.Js | Flask | Python | Java | AI/ML | Data Analyst</h2>
+<h2 align="left">🚀 Full-Stack Developer | React.Js | Next.Js | Python | Java | AI/ML | Data Analysis</h2>
 
 
 
