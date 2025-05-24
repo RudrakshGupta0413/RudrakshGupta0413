@@ -13,7 +13,7 @@
   <ul>
     <li><h4>🎯 I’m currently working on developing scalable web applications by integrating AI/ML for better efficiency.</h4></li> 
     <li><h4>🤝 I’m looking to collaborate on projects that leverage AI/ML and enhance user experiences.</h4> </li> 
-    <li><h4>🌱 I’m currently learning advanced concepts in data science and analytics.</h4></li>
+    <li><h4>🌱 I’m currently learning advanced concepts of System Design.</h4></li>
     <li><h4>💬 Ask me about full-stack development, DSA, or building platforms for social impact.</h4></li>
     <li><h4>⚡ Fun fact: I’m passionate about using technology to solve real-world problems and bridge gaps in accessibility.</h4></li>
   </ul> 
